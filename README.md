@@ -31,6 +31,29 @@ These features are combined into a single **tags** representation.
 The tags are then converted into numerical vectors using **CountVectorizer**, and **Cosine Similarity** is used to find movies with similar content.
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![CineMatch Home 1](screenshots/home.png/Screenshot%202026-10-08%20232003.png)
+
+![CineMatch Home 2](screenshots/home.png/Screenshot%202026-10-08%20232306.png)
+
+### 🎬 Recommendations
+
+![CineMatch Recommendations 1](screenshots/recommendations.png/Screenshot%202026-10-08%20232018.png)
+
+![CineMatch Recommendations 2](screenshots/recommendations.png/Screenshot%202026-10-08%20232335.png)
+
+## ✨ Features
+
+- 🎬 Select a movie
+- 🤖 Get 5 similar movie recommendations
+- 🖼️ Movie posters
+- 🎨 Modern UI
+- 🌐 TMDB API integration
+
+---
 
 ## 🧠 How It Works
 
